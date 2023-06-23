@@ -1,0 +1,23 @@
+{
+  "greeting": "Hiya",
+  "name": "Umair Hashmi",
+  "greetingText": "Mast life guzar rahy hoo!",
+  "wishText": "May the js.prototypes always be with you! ;)",
+  "imagePath": "img/lydia2.png",
+  "text1": "Tou Janam Din Hei Apka Aj Boy!!! :D",
+  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "mazaydaar",
+  "text5Entry": "Because,",
+  "text5Content": "Ap pro admii hoo",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Janam Din Mubarak!",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
